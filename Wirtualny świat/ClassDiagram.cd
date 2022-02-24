@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Antylopa">
+    <Position X="22.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAAgAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Antylopa.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BarszczSosnowskiego">
+    <Position X="6.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAEAAAAAAAAAAAgAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>BarszczSosnowskiego.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Czlowiek">
+    <Position X="14.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEAAACAAAgAAAEAgAAAAQgAAgAACBACAAAEBA=</HashCode>
+      <FileName>Czlowiek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Guarana">
+    <Position X="11.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAEAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guarana.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KomparatorOrganizmow">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KomparatorOrganizmow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lis">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAgAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Lis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mlecz">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAEAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Mlecz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Organizm">
+    <Position X="13" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAMJCAIggAEAAAOAgAAiIAEAiAAAApkAOUAIBA=</HashCode>
+      <FileName>Organizm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Owca">
+    <Position X="17.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Owca.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roslina">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAUAAAAAwAAAACAAgAQAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Roslina.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Swiat">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAiAwAAAAAAAgAAQEABAAAAAgUAAIAoEAIQGTEIgAA=</HashCode>
+      <FileName>Swiat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SymulacjaSwiata">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAKAAAAABAIAAAAAAAAAAABBKAABEAABAAAAA=</HashCode>
+      <FileName>SymulacjaSwiata.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trawa">
+    <Position X="5.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Trawa.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WilczeJagody">
+    <Position X="8.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAIAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>WilczeJagody.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wilk">
+    <Position X="19.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Wilk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zolw">
+    <Position X="20.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAgAAAIAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Zolw.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zwierze">
+    <Position X="15.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAgAgAAAAggAAAAAAgAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Zwierze.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Org">
+    <Position X="17" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgACAAAAAAAAAIAAAgQAAAAQAAAAAAAAAAABAAAAAw=</HashCode>
+      <FileName>ListaOrganizmow.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kierunek">
+    <Position X="18.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACEAAAAAAAAAAAQgAAAAAAAAAAhCIAAA=</HashCode>
+      <FileName>Kierunek.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AkcjaZwrotna">
+    <Position X="20.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AkcjaZwrotna.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
