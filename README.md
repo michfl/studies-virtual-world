@@ -15,7 +15,6 @@
 - [L] Fox (3/7) -> never moves on a field occupied by a stronger entity
 - [Z] Turtle (2/1) -> has 25% chance of moving, fends off attacks of entities with strength less than 5
 - [A] Antelope (4/4) -> moves two fields in one turn, 50% chance to avoid fight - moves to an unoccupied field next by
-- [C] Cyber-sheep (11/4) -> each turn moves in the direction of Sosnowsky's hogweed and eats it
 - [@] Human -> controlled by the player
 
 ## Plants:
